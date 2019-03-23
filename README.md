@@ -11,4 +11,5 @@ telegram chat bot framework
 * Python 3.6
 
 ## Prepare
-* pip install python-telegram-bot
+* pip install python-telegram-bot --upgrade
+* pip install beautifulsoup4
